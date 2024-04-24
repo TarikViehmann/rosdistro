@@ -5,6 +5,8 @@
 release_platforms:
   rhel:
   - '8'
+  fedora:
+  - '39'
   ubuntu:
   - jammy
 repositories:
